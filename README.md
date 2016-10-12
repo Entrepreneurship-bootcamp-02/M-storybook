@@ -15,7 +15,14 @@
 3. 함께하는 미션 수행의 리액션을 즐깁니다.
 
 ---
-## M3.simple-todos-react deploy 해서 테스트해 보기
+## M4=std-r 1~5 redo + 7주차 준비
+1. 수업에서 배운 방법을 그대로 복습합니다.
+2. 7주차 준비를 위해 Android Studio 설치후 Basic Activity 로 App. 만들기
+3. 안드로이드 기계와 USB 케이블 지참
+3. 위의 B.진행 방법을 참고하세요.
+
+
+## M3=simple-todos-react deploy 해서 테스트해 보기
 1. 수업에서 배운 방법을 그대로 응용합니다.
 2. Repo https://github.com/Entrepreneurship-bootcamp-02/simple-todos-react
 3. 로칼에서 테스트하기 > meteor npm i & meteor
