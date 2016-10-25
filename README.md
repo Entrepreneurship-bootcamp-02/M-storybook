@@ -15,6 +15,12 @@
 3. 함께하는 미션 수행의 리액션을 즐깁니다.
 
 ---
+#M5=매신저 앱 만들기
+1. 수업에서 배운 방법을 이용합니다.
+2. 다음 레포를 빌드해서 안드로이드 앱을 만듭니다. github.com/DAB0mB/angular-meteor-whatsapp
+3. 위의 B.진행 방법=인증 필수!! 
+
+
 ## M4=std-r 1~5 redo + 7주차 준비
 1. 수업에서 배운 방법을 그대로 복습합니다.
 2. 7주차 준비를 위해 Android Studio 설치후 Basic Activity 로 App. 만들기
