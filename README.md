@@ -17,7 +17,7 @@
 ---
 ## M5=매신저 앱 만들기
 1. 수업에서 배운 방법을 이용합니다.
-2. 다음 레포를 빌드해서 안드로이드 앱을 만듭니다. github.com/DAB0mB/angular-meteor-whatsapp
+2. 다음 레포를 빌드해서 안드로이드 앱을 만듭니다. http://github.com/DAB0mB/angular-meteor-whatsapp
 3. 위의 B.진행 방법=인증 필수!! 
 
 
