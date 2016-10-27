@@ -21,7 +21,7 @@
 3. PC 와 폰에서 각각 로그인 하여 메시지를 주고받습니다.
 4. 위의 B.진행 방법=인증 필수!! 
 
-https://github.com/Entrepreneurship-bootcamp-02/M-storybook
+https://github.com/Entrepreneurship-bootcamp-02/angular-meteor-whatsapp
 
 ---
 
