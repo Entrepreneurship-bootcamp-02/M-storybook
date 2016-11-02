@@ -15,6 +15,14 @@
 3. 함께하는 미션 수행의 리액션을 즐깁니다.
 
 ---
+## M6=STD-R 응용하기
+1. 수업에서 배운 방법을 이용합니다.
+2. 10주차 준비를 위해, 아래 Repo를 빌드해서 작동을 확인합니다.
+3. Repo에 STD-R 기능 추가합니다.
+4. 위의 B.진행 방법=인증 필수!! 
+
+https://github.com/andrewliebchen/meteor-react-boilerplate
+***
 ## M5=매신저 앱 만들기
 1. 수업에서 배운 방법을 이용합니다.
 2. 아래 Repo를 빌드해서 안드로이드 앱을 만들어 폰에 설치합니다.
@@ -22,17 +30,13 @@
 4. 위의 B.진행 방법=인증 필수!! 
 
 https://github.com/Entrepreneurship-bootcamp-02/angular-meteor-whatsapp
-
 ---
-
 ## M4=std-r 1~5 redo + 7주차 준비
 1. 수업에서 배운 방법을 그대로 복습합니다.
-2. 7주차 준비를 위해 Android Studio 설치후 Basic Activity 로 App. 만들기
+2. 7주차 준비를 위해 Android Studio 설치후 Basic Activity로 App.을 만듭니다.
 3. 안드로이드 기계와 USB 케이블 지참
 3. 위의 B.진행 방법을 참고하세요.
-
 ---
-
 ## M3=simple-todos-react deploy 해서 테스트해 보기
 1. 수업에서 배운 방법을 그대로 응용합니다.
 2. Repo https://github.com/Entrepreneurship-bootcamp-02/simple-todos-react
